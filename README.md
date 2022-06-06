@@ -9,6 +9,13 @@
 
 🌱 My birthday is *✨2002/03/26✨*
 
+👯 My student ID is **109403203**
+
+😄 My interests:
+* Guitar
+* Baking
+* Coding
+
 <!--
 **jennifer4093852/jennifer4093852** is a ✨ _spec![123](https://user-images.githubusercontent.com/106917447/172114303-51cfbed0-3c94-433c-a379-07ac08f13aa1.jpg)
 ial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
