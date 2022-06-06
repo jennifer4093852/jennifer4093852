@@ -5,6 +5,8 @@
 
 🔭 I'm enrolled in **國立中央大學 資訊管理學系**
 
+⚡I lived in **Taoyuan** Country
+
 📫 You can search me from [My Instagram](https://www.instagram.com/jyeoyu/).
 
 🌱 My birthday is *✨2002/03/26✨*
