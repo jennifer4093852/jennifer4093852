@@ -1,7 +1,7 @@
 ### jennifer4093852
 ![123](https://user-images.githubusercontent.com/106917447/172114334-24b63a08-fe58-4f25-89ca-a0f64986a885.jpg)
 
-[My GitHub.io}(https://jennifer4093852.github.io/)
+[My GitHub.io](https://jennifer4093852.github.io/)
 
 👋 Hi, I'm 丁予柔
 
